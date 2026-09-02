@@ -1,4 +1,4 @@
-__Eaglercraft__
+##Eaglercraft##
 
 Welcome to Eaglercraft.
 This project lets you run the game in a browser-based format with a simple setup process. Follow the steps below to get started.
