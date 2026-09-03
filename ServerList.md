@@ -1,1 +1,1 @@
-- wss://playfrogiee1.net/eagles/
+- __wss://playfrogiee1.net/eagles/__
