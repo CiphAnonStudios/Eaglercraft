@@ -1,1 +1,2 @@
-- __wss://playfrogiee1.net/eagles/__
+- __wss://playfrogiee1.net/eagles/__                (XenaMC)
+
